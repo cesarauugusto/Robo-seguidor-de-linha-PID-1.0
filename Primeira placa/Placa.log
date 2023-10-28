@@ -1,0 +1,6 @@
+# Writing all output to: C:\Users\PNS Carmo\Desktop\robo\PLACA\Placa.log
+set pad_wire_necking on
+bus diagonal
+fanout 10
+route 100
+Process stopped!
